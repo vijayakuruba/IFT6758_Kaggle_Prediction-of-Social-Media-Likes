@@ -4,7 +4,7 @@ Procedure to execute the above task is as follows:
 
 1. Load the training and testing data into DataFrames.
 
-2. Study data pattaren using Feature engineering.
+2. Study data by exploratory data analysis and do Feature engineering.
 
 3. preprocessing the data
 
