@@ -1,15 +1,11 @@
-The main task for the data challenge is to predict the number of 'likes' for given details about the simulated profiles of users on social media.
-Procedure to execute the above task is as follows: 
+Final year project for IFT 6758 - Data Science
+Team: Social Dilemma
+Members: Vijaya Lakshmi kuruba   Marthy Stivaliz Garcia Alvarado   Lissethy Cevallos   Karla Felix Navarro
 
 
-1. Load the training and testing data into DataFrames.
+In this challenge, we use different Data cleaning strategies, Imputation techniques and Machine Learning models to predict the Number of Likes based on Social Media Profile of different users. 
+This repository contains 2 submissions:
 
-2. Study data by exploratory data analysis and do Feature engineering.
-
-3. preprocessing the data
-
-4. Test train split data
-
-5. Fit the model and experiment of different models
-
-6. For the best ensembler fit the model and generate submission file
+Best_submission: Corresponds to the files used to generate our best submission.
+Images_submission: Corresponds to the files used to generate a submission using images
+Please refer to each folder to run the submission desired.
